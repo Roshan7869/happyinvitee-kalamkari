@@ -1,0 +1,14 @@
+{
+  "slug": "t_kalamkari",
+  "status": "ok",
+  "title": "Karthik weds Lavanya",
+  "render_bytes": 152669,
+  "image_urls": 28,
+  "downloaded": 28,
+  "missing": [],
+  "config_keys": 53,
+  "injector_removed": false,
+  "local_images_loaded": 63,
+  "local_broken": [],
+  "js_errors": []
+}
